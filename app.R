@@ -312,6 +312,6 @@ server <- function(input, output) {
 
 shinyApp(ui = ui, server = server)
 
-# shiny::runGitHub("usfviz", "dannysuh518-hw3")
+# shiny::runGitHub("dannysuh518-hw3", "usfviz")
 
 
